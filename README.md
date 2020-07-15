@@ -3,6 +3,8 @@
 Sessionstore a application demo application that stores the information relating to charging session
 and a utility is developed to count all the hits occurred in last 60 seconds(window period) 
 
+Used ReentrantReadWriteLock to achieve thread safety in the application
+
 <b>endpoints</b>
 1. POST /chargingSessions - to add a new charging session
 2. PUT /chargingSessions/{id} - to update a existing charging session
