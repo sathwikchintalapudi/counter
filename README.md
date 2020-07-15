@@ -1,6 +1,7 @@
 <h2>Project description</h2>
 
-Sessionstore a application demo application that stores the information relating to charging session.
+Sessionstore a application demo application that stores the information relating to charging session
+and a utility is developed to count all the hits occurred in last 60 seconds(window period) 
 
 <b>endpoints</b>
 1. POST /chargingSessions - to add a new charging session
