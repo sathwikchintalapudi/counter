@@ -1,6 +1,6 @@
 <h2>Project description</h2>
 
-Sessionstore application stores the information relating to charging session.
+Sessionstore a application demo application that stores the information relating to charging session.
 
 <b>endpoints</b>
 1. POST /chargingSessions - to add a new charging session
